@@ -19,10 +19,6 @@ URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 3
@@ -34,6 +30,10 @@ weight = 4
 URL = "sample-page"
 name = "Sample Page"
 weight = 5
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
