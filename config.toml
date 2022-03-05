@@ -15,7 +15,7 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "/mint4ever.dao"
+URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
